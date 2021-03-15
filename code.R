@@ -8,7 +8,7 @@ library("fpp2")
 library(corrplot)
 
 # Set working directory to source file location 
-setwd("F:/SFU/CMPT318/Term Project")
+setwd("")
 
 df <- read.table(file="TermProjectData.txt", header=T, sep=",")
 
